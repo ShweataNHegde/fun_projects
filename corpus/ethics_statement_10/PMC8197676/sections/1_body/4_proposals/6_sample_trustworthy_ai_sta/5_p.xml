@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par120">Criteria:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par121">Justify why AI is the right approach to the problem they are trying to address</p>
+  </list-item>
+  <list-item>
+   <p id="Par122">Have measures in place to ensure equal and meaningful opportunities for people from diverse backgrounds, particularly those known to be under-represented such as women, people of colour and people living with a disability, to be involved throughout the project
+    <sub>.</sub>
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par123">The expected impact of the project (benefits and losses) between diverse groups, considering intersectionality; consideration of long term consequences and the approach to managing risks regarding the impact that the technology might have</p>
+  </list-item>
+  <list-item>
+   <p id="Par124">
+    <italic>Data set quality control</italic> Consideration and documentation regarding the provenance of data used, any privacy risks and associated mitigations, data diversity and representativeness and data security measures.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par125">Consideration of algorithmic bias and explanations for metrics and fairness tests use plus details of mitigations for any identified bias and future monitoring and whistle-blower protections.</p>
+  </list-item>
+  <list-item>
+   <p id="Par126">Outline how the system will incorporate an Explainable AI approach, avoiding scenarios where the behaviour of a system cannot be explained, after that fact. This is particularly important for projects deemed high impact for example health algorithms. Any use of a system which is not explainable should have a full justification in the context of the rights and freedoms of stakeholders.</p>
+  </list-item>
+  <list-item>
+   <p id="Par127">Transparency statement for the project including commitment to disaggregate data and metrics by gender, age and race.</p>
+  </list-item>
+  <list-item>
+   <p id="Par128">Clear governance around the development and adoption of the technology</p>
+  </list-item>
+ </list>
+</p>

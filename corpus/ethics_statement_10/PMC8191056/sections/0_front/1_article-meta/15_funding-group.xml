@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000024</institution-id>
+    <institution>Canadian Institutes of Health Research</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>359258</award-id>
+  <award-id>Tier I Research Chair in Law and Medicine</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Rahimzadeh</surname>
+    <given-names>Vasiliki</given-names>
+   </name>
+   <name>
+    <surname>Knoppers</surname>
+    <given-names>Bartha Maria</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+</funding-group>

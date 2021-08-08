@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Morley</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>From What to how: an initial review of publicly available AI ethics tools, methods and research to translate principles into practices</article-title>
+  <source>Sci. Eng. Ethics</source>
+  <year>2020</year>
+  <volume>26</volume>
+  <fpage>2141</fpage>
+  <lpage>2168</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11948-019-00165-5</pub-id>
+  <pub-id pub-id-type="pmid">31828533</pub-id>
+ </element-citation>
+</ref>

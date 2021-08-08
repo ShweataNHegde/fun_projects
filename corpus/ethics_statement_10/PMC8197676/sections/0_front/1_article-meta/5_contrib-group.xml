@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8483-121X</contrib-id>
+  <name>
+   <surname>Gardner</surname>
+   <given-names>Allison</given-names>
+  </name>
+  <address>
+   <email>a.gardner@keele.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Smith</surname>
+   <given-names>Adam Leon</given-names>
+  </name>
+  <address>
+   <email>adam@wearedragonfly.co</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Steventon</surname>
+   <given-names>Adam</given-names>
+  </name>
+  <address>
+   <email>adam.steventon@health.org.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Coughlan</surname>
+   <given-names>Ellen</given-names>
+  </name>
+  <address>
+   <email>ellen.coughlan@health.org.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oldfield</surname>
+   <given-names>Marie</given-names>
+  </name>
+  <address>
+   <email>Marie@oldfieldconsultancy.co.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9757.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0415 6205</institution-id>
+   <institution>School of Computing and Mathematics, </institution>
+   <institution>Keele University, </institution>
+  </institution-wrap>Newcastle-under-Lyme, ST5 5BG UK 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Dragonfly, London, UK 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.453604.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1756 7003</institution-id>
+   <institution>Health Foundation, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.499502.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2364 1394</institution-id>
+   <institution>Artificial Intelligence Group, </institution>
+   <institution>Royal Statistical Society, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+</contrib-group>

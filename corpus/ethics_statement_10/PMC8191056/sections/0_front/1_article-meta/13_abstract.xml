@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">The highly sensitive nature of genomic and associated clinical data, coupled with the consent-related vulnerabilities of children together accentuate ethical, legal and social issues (ELSI) concerning data sharing. The Key Implications of Data Sharing (KIDS) framework was therefore developed to address a need for institutional guidance on genomic data governance but has yet to be validated among data sharing practitioners in practice settings. This study qualitatively explored areas of consensus and dissensus of the KIDS Framework from the perspectives of Canadian clinician-scientists, genomic researchers, IRB members, and pediatric ethicists.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">Twelve panelists participated in a three-round online policy Delphi to determine the 
+   <italic>desirability</italic>, 
+   <italic>feasibility</italic>, 
+   <italic>relative importance</italic> and 
+   <italic>confidence</italic> of twelve individual statements of the KIDS Framework. Mean and IQR were calculated from panelists’ ratings to determine the strength of consensus and polarity. Qualitative content analysis of panelists’ written responses was used to assess degree of support. Statements were validated when their combined ratings and qualitative rationales indicated high-moderate consensus (at least 70% agreement across two contiguous categories), low to no polarity (IQR at least 1.0) and strong support.
+  </p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">Nine original, and one new statement reached consensus. These statements outlined essential elements of the informed consent process, including a realistic evaluation of benefits and risks and assurance of future ethics oversight for secondary data use. Discrepant views on appropriate protections for anonymized and coded i.e. de-identified genomic data were primary sources of dissensus.</p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par4">The validated statements provide institutions with empirically supported best practices for sharing genomic and associated clinical data involving children from the perspectives of key stakeholders. Concerted efforts to quantify informational risks that can be conveyed to patients and families are further needed to align data sharing policy with stakeholder priorities.</p>
+ </sec>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1186/s12910-021-00635-1.</p>
+ </sec>
+</abstract>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sundar</surname>
+   <given-names>Kaushik</given-names>
+  </name>
+  <degrees>DM</degrees>
+  <xref ref-type="aff" rid="af1-neuroint-2020-00304-e1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Paulraj</surname>
+   <given-names>Sabharisundarvel</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="af1-neuroint-2020-00304-e1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Choudhury</surname>
+   <given-names>Shuvro Roy</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="af1-neuroint-2020-00304-e1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hassan</surname>
+   <given-names>Haseeb</given-names>
+  </name>
+  <degrees>DM</degrees>
+  <xref ref-type="aff" rid="af1-neuroint-2020-00304-e1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sengupta</surname>
+   <given-names>Judhajit</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="af1-neuroint-2020-00304-e1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pattari</surname>
+   <given-names>Sanjib Kumar</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="af1-neuroint-2020-00304-e1"/>
+ </contrib>
+ <aff id="af1-neuroint-2020-00304-e1"> Rabindranath Tagore International Institute of Cardiac Sciences, Kolkata, 
+  <country>India</country>
+ </aff>
+</contrib-group>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Large-scale databases e.g., OMIM, ClinGen and Orphanet that contain patient pheno-and genotypic-level data have accelerated advances in understanding gene-disease correlations [
+ <xref ref-type="bibr" rid="CR1">1</xref>]. Next generation sequencing and access to quality, annotated data aid clinicians in molecular diagnosis of individuals with Mendelian and other diseases with suspected genetic etiology. The availability of data assets necessarily relies on procuring them from patient sources either during the course of clinical care or participation in research. Because many genetic diseases present early in life, patient sources include undiagnosed children for whom both a scientific and ethical need justifies access, use and exchange of their genomic data [
+ <xref ref-type="bibr" rid="CR2">2</xref>, 
+ <xref ref-type="bibr" rid="CR3">3</xref>]. Although studies demonstrate that whole genome/exome sequencing can increase diagnostic yield by as much as 25% [
+ <xref ref-type="bibr" rid="CR4">4</xref>], interoperable sharing of children’s genomic data across clinical and research environments remains a key bottleneck in the discovery pipleline for rare genetic disease [
+ <xref ref-type="bibr" rid="CR5">5</xref>].
+</p>

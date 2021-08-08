@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographic characteristics of Delphi panel</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Panel members</th>
+    <th align="left" colspan="3">No. of panelists</th>
+   </tr>
+   <tr>
+    <th align="left">Round 1 (n = 10)</th>
+    <th align="left">Round 2 (n = 12)</th>
+    <th align="left">Round 3 (n = 12*)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="4">Gender</td>
+   </tr>
+   <tr>
+    <td align="left"> Male</td>
+    <td align="left">6 (60%)</td>
+    <td align="left">7</td>
+    <td align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left"> Female</td>
+    <td align="left">4 (40%)</td>
+    <td align="left">5</td>
+    <td align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Province</td>
+   </tr>
+   <tr>
+    <td align="left"> Quebec</td>
+    <td align="left">2 (20%)</td>
+    <td align="left">4</td>
+    <td align="left">4</td>
+   </tr>
+   <tr>
+    <td align="left"> Ontario</td>
+    <td align="left">4 (40%)</td>
+    <td align="left">4</td>
+    <td align="left">4</td>
+   </tr>
+   <tr>
+    <td align="left"> British Columbia</td>
+    <td align="left">2 (20%)</td>
+    <td align="left">2</td>
+    <td align="left">2</td>
+   </tr>
+   <tr>
+    <td align="left"> Nova Scotia</td>
+    <td align="left">1 (10%)</td>
+    <td align="left">1</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left"> Alberta</td>
+    <td align="left">1 (10%)</td>
+    <td align="left">1</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Profession</td>
+   </tr>
+   <tr>
+    <td align="left"> Clinician scientist</td>
+    <td align="left">6 (60%)</td>
+    <td align="left">7</td>
+    <td align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left"> ELSI researcher</td>
+    <td align="left">2 (20%)</td>
+    <td align="left">2</td>
+    <td align="left">3</td>
+   </tr>
+   <tr>
+    <td align="left"> IRB Chair/member</td>
+    <td align="left">2 (20%)</td>
+    <td align="left">2</td>
+    <td align="left">2</td>
+   </tr>
+   <tr>
+    <td align="left"> Pediatric ethicist</td>
+    <td align="left">1 (10%)</td>
+    <td align="left">1</td>
+    <td align="left">1</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>*While 12 panelists participated in Round 3, only complete survey data from 10 panelists were reported in the analysis</p>
+ </table-wrap-foot>
+</table-wrap>

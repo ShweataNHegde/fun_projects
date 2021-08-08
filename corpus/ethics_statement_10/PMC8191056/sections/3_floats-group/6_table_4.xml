@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p> Rankings for position statements based on combined average ratings after Rounds 1 and Round 2</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">#</th>
+    <th align="left" colspan="2">Position statement (rating category)*</th>
+    <th align="left">Rank</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">5</td>
+    <td align="left" colspan="2">Parental authorization for ongoing, or future unspecified research should include the provision of information related to existing data governance (RI + D)</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">8</td>
+    <td align="left" colspan="2">The decision to share pediatric genomic and associated clinical data should be supported by an evaluation of realistic risks and benefits (F + C)</td>
+    <td align="left">2</td>
+   </tr>
+   <tr>
+    <td align="left">3</td>
+    <td align="left" colspan="2">Parents should be informed in a transparent manner how their child’s genomic and associated clinical data will be securely managed and used (RI + C)</td>
+    <td align="left">3</td>
+   </tr>
+   <tr>
+    <td align="left">1</td>
+    <td align="left" colspan="2">The best interests of children are primary (RI + F)</td>
+    <td align="left">4</td>
+   </tr>
+   <tr>
+    <td align="left">7</td>
+    <td align="left" colspan="2">Professionals involved in consent processes related to data sharing and data-intensive research have the responsibility to balance potential benefits and risks. A trained designate should be available to discuss these with parents at the time of consent (D + F)</td>
+    <td align="left">5</td>
+   </tr>
+   <tr>
+    <td align="left">9</td>
+    <td align="left" colspan="2">Duplicative collection of genomic research data involving pediatric patients should be avoided (D + F)</td>
+    <td align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left">13</td>
+    <td align="left" colspan="2">Incidental (secondary) findings of clinically actionable, validated genomic results should be made available</td>
+    <td align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left">6</td>
+    <td align="left" colspan="2">Values conveyed by family, legal guardians or primary care givers should be respected when possible (RI + F)</td>
+    <td align="left">7</td>
+   </tr>
+   <tr>
+    <td align="left">2</td>
+    <td align="left" colspan="2">Children should be listened to, and involved in decision-making processes related to genomic and associated clinical data sharing in developmentally appropriate ways (D + F)</td>
+    <td align="left">8</td>
+   </tr>
+   <tr>
+    <td align="left">4</td>
+    <td align="left" colspan="2">In a research context, data sharing infrastructures should enable children to withdraw consent to continued sharing of their genomic and associated clinical data when possible upon reaching the age of majority (D + F)</td>
+    <td align="left">8</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Statements #10, #11 and #12 did not meet the criteria for consensus</p>
+  <p>*RI, relative importance; F, feasibility; C, confidence; D, desirability</p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par56">Data quality is a key aspect of building an effect model, whether AI based or not. The old adage states “rubbish in equals rubbish out”. Data is the bedrock of any model and quality of this data is of paramount concern. The AQuA Book for best practise within the UK Government states “However, if analysis and any supporting models, data and assumptions are not fit for purpose then the consequences can be severe ranging from financial loss through to reputational damage and legal challenge. In the most severe of consequences, lives and livelihoods can be affected.” [
+ <xref ref-type="bibr" rid="CR40">40</xref>]. In the Lords Enquiry of June 2020 concerns were raised over data availability and quality which went on to impact the models in this area. [
+ <xref ref-type="bibr" rid="CR55">55</xref>]. The Decision Makers Playbook advises scrutiny of data before any type of decision is made and indeed advises Decision Makers to funny understand their data and seek further advice on the data should they need it [
+ <xref ref-type="bibr" rid="CR56">56</xref>]. The European Statistical System Committee. (2012). Quality Assurance Framework of the European Statistical System also discusses how to ensure data quality [
+ <xref ref-type="bibr" rid="CR58">58</xref>] along with the Quality Assurance of Administrative Data (QAAD) framework. These frameworks are not recent and so stand testament to the existing emphasis on data quality.
+</p>

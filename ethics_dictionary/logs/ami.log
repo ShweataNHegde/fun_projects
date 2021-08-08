@@ -1,0 +1,94 @@
+10:20:08.960 INFO  org.contentmine.ami.tools.AMIDict - args: [-v, --dictionary, features_ack, --directory, features_ack, --input, features_ack.txt, create, --informat, list, --outformats, xml]
+10:20:08.988 DEBUG org.contentmine.ami.tools.AMIDict - Version: amidict 2020.08.09_09.54-NEXT-SNAPSHOT
+(jar:file:/C:/Users/shweata/ami3/target/ami3-2020.08.09_09.54-NEXT-SNAPSHOT-distribution/ami3-2020.08.09_09.54-NEXT-SNAPSHOT/repo/ami3-2020.08.09_09.54-NEXT-SNAPSHOT.jar)
+JVM: 15 (Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 15+36-1562)
+OS: Windows 10 10.0 amd64
+
+10:20:09.042 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - dictionaryName features_ack must match [a-z][a-z0-9]+
+10:20:09.094 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - dictionaryName: features_ack
+10:20:09.105 DEBUG org.contentmine.ami.tools.dictionary.DictionaryCreationTool - readTerms
+10:20:09.110 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - names 33; terms 33
+10:20:09.115 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/also_thank
+10:20:11.140 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Also_thank
+10:20:11.141 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: also thank; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Also_thank
+10:20:11.143 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/appreciated
+10:20:12.953 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/author_would_like
+10:20:14.323 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Author_would_like
+10:20:14.324 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: author would like; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Author_would_like
+10:20:14.325 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/authors_acknowledge
+10:20:16.565 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Authors_acknowledge
+10:20:16.566 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: authors acknowledge; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Authors_acknowledge
+10:20:16.567 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/authors_express
+10:20:17.837 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Authors_express
+10:20:17.838 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: authors express; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Authors_express
+10:20:17.838 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/authors_extend
+10:20:19.215 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Authors_extend
+10:20:19.216 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: authors extend; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Authors_extend
+10:20:19.217 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/authors_gratefully_acknowledge
+10:20:20.787 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Authors_gratefully_acknowledge
+10:20:20.788 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: authors gratefully acknowledge; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Authors_gratefully_acknowledge
+10:20:20.789 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/authors_sincerely_thank
+10:20:22.206 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Authors_sincerely_thank
+10:20:22.207 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: authors sincerely thank; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Authors_sincerely_thank
+10:20:22.209 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/authors_thank
+10:20:23.803 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Authors_thank
+10:20:23.803 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: authors thank; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Authors_thank
+10:20:23.806 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/contribution
+10:20:24.990 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/facilities_provided
+10:20:26.303 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Facilities_provided
+10:20:26.304 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: facilities provided; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Facilities_provided
+10:20:26.307 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/fellowship
+10:20:27.623 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/financial_contribution
+10:20:28.918 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Financial_contribution
+10:20:28.918 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: financial contribution; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Financial_contribution
+10:20:28.922 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/financial_support
+10:20:30.552 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/for_providing
+10:20:31.708 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/For_providing
+10:20:31.709 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: for providing; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/For_providing
+10:20:31.714 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/funds
+10:20:32.933 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/grateful
+10:20:34.273 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/helpful_comments
+10:20:35.391 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Helpful_comments
+10:20:35.391 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: helpful comments; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Helpful_comments
+10:20:35.396 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/helpful_suggestions
+10:20:37.017 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Helpful_suggestions
+10:20:37.017 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: helpful suggestions; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Helpful_suggestions
+10:20:37.020 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/kind_support
+10:20:38.545 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Kind_support
+10:20:38.546 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: kind support; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Kind_support
+10:20:38.549 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/necessary_facilities
+10:20:39.876 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Necessary_facilities
+10:20:39.877 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: necessary facilities; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Necessary_facilities
+10:20:39.879 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/provided_funding
+10:20:41.438 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Provided_funding
+10:20:41.438 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: provided funding; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Provided_funding
+10:20:41.440 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/providing_constant_support
+10:20:42.812 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Providing_constant_support
+10:20:42.813 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: providing constant support; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Providing_constant_support
+10:20:42.817 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/providing_facilities
+10:20:44.295 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Providing_facilities
+10:20:44.296 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: providing facilities; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Providing_facilities
+10:20:44.299 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/reliable_care
+10:20:45.604 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Reliable_care
+10:20:45.605 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: reliable care; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Reliable_care
+10:20:45.609 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/research_support
+10:20:47.151 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Research_support
+10:20:47.152 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: research support; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Research_support
+10:20:47.154 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/scientific_support
+10:20:48.625 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Scientific_support
+10:20:48.626 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: scientific support; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Scientific_support
+10:20:48.628 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/sincere_thanks
+10:20:50.491 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Sincere_thanks
+10:20:50.492 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: sincere thanks; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Sincere_thanks
+10:20:50.495 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/special_thanks
+10:20:52.100 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Special_thanks
+10:20:52.100 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: special thanks; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Special_thanks
+10:20:52.103 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/support_provided
+10:20:53.697 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Support_provided
+10:20:53.698 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: support provided; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Support_provided
+10:20:53.701 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/technical_assistance
+10:20:57.546 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/technical_support
+10:20:58.543 INFO  org.contentmine.ami.tools.AbstractAMIDictTool - WP url: https://en.wikipedia.org/wiki/valuable_comments
+10:20:59.671 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - wikimedia IO exception: https://en.wikipedia.org/wiki/Valuable_comments
+10:20:59.672 ERROR org.contentmine.ami.tools.AbstractAMIDictTool - cannot parse wikipedia page for: valuable comments; java.io.FileNotFoundException: https://en.wikipedia.org/wiki/Valuable_comments
+10:20:59.682 INFO  org.contentmine.ami.tools.dictionary.DictionaryCreationTool - writing dictionary to C:\Users\shweata\docanalysis\ethics_dictionary\features_ack\features_ack.xml

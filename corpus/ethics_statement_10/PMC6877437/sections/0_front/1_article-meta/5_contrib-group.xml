@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Hua</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jptm-2019-08-12"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jabbour</surname>
+   <given-names>Tony El</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jptm-2019-08-12"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nigam</surname>
+   <given-names>Ankesh</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-jptm-2019-08-12">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Hwajeong</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jptm-2019-08-12"/>
+ </contrib>
+ <aff id="af1-jptm-2019-08-12"> Department of Pathology and Laboratory Medicine, Albany Medical Center, Albany, NY, 
+  <country>USA</country>
+ </aff>
+ <aff id="af2-jptm-2019-08-12">
+  <label>1</label>Department of General Surgery, Albany Medical Center, Albany, NY, 
+  <country>USA</country>
+ </aff>
+</contrib-group>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par39">The Explainability section contains the following bullet points:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par40">Did you explain the decision(s) of the AI system to the users?</p>
+  </list-item>
+  <list-item>
+   <p id="Par41">Do you continuously survey the users if they understand the decision(s) of the AI system?</p>
+  </list-item>
+ </list>
+</p>
