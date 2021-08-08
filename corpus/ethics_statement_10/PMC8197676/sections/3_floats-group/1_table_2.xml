@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Summary of ethics appraisal steps for the horizon 2020 grant fund</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Activity</th>
+    <th align="left">Who?</th>
+    <th align="left">When?</th>
+    <th align="left">How?</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Ethics self-assessment</td>
+    <td align="left">Applicant</td>
+    <td align="left">Application phase</td>
+    <td align="left">Consideration of ethical issues of the proposal</td>
+   </tr>
+   <tr>
+    <td align="left">Ethics pre-screening/screening</td>
+    <td align="left">Ethics experts and/or qualified staff</td>
+    <td align="left">Evaluation phase</td>
+    <td align="left">Review of application material</td>
+   </tr>
+   <tr>
+    <td align="left">Ethics assessment (for proposals involving hESC or raising serious ethical issues: severe intervention on humans)</td>
+    <td align="left">Ethics experts</td>
+    <td align="left">Evaluation/grant preparation phase</td>
+    <td align="left">Review of application material</td>
+   </tr>
+   <tr>
+    <td align="left">Ethics check/audit</td>
+    <td align="left">Ethics experts</td>
+    <td align="left">Implementation phase</td>
+    <td align="left">Review of project deliverables/interview with applicants</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

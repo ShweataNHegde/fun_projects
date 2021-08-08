@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McGuire</surname>
+    <given-names>AL</given-names>
+   </name>
+   <name>
+    <surname>Oliver</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Slashinski</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Graves</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Kelly</surname>
+    <given-names>PA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>To share or not to share: a randomized trial of consent for data sharing in genome research</article-title>
+  <source>Genet Med</source>
+  <year>2011</year>
+  <volume>13</volume>
+  <issue>11</issue>
+  <fpage>948</fpage>
+  <lpage>55</lpage>
+  <pub-id pub-id-type="doi">10.1097/GIM.0b013e3182227589</pub-id>
+  <pub-id pub-id-type="pmid">21785360</pub-id>
+ </element-citation>
+</ref>

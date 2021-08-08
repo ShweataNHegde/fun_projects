@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Diamond</surname>
+    <given-names>IR</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Feldman</surname>
+    <given-names>BM</given-names>
+   </name>
+   <name>
+    <surname>Pencharz</surname>
+    <given-names>PB</given-names>
+   </name>
+   <name>
+    <surname>Ling</surname>
+    <given-names>SC</given-names>
+   </name>
+   <name>
+    <surname>Moore</surname>
+    <given-names>AM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Defining consensus: a systematic review recommends methodologic criteria for reporting of Delphi studies</article-title>
+  <source>J Clin Epidemiol</source>
+  <year>2014</year>
+  <volume>67</volume>
+  <issue>4</issue>
+  <fpage>401</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jclinepi.2013.12.002</pub-id>
+  <pub-id pub-id-type="pmid">24581294</pub-id>
+ </element-citation>
+</ref>

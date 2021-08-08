@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="no">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3537-7601</contrib-id>
+  <name>
+   <surname>Rahimzadeh</surname>
+   <given-names>Vasiliki</given-names>
+  </name>
+  <address>
+   <email>vrahim@stanford.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="no">
+  <name>
+   <surname>Bartlett</surname>
+   <given-names>Gillian</given-names>
+  </name>
+  <address>
+   <email>E.gillian.bartlett@health.missouri.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="no">
+  <name>
+   <surname>Knoppers</surname>
+   <given-names>Bartha Maria</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.168010.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000000419368956</institution-id>
+   <institution>Stanford Center for Biomedical Ethics, </institution>
+   <institution>Stanford University, </institution>
+  </institution-wrap>1215 Welch Rd, Stanford, CA 94305 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.134936.a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2162 3504</institution-id>
+   <institution>School of Medicine, </institution>
+   <institution>University of Missouri, </institution>
+  </institution-wrap>7 Hospital Drive Suite MA306N Medical Sciences Bldg, Columbia, MO 65211 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.14709.3b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8649</institution-id>
+   <institution>Centre of Genomics and Policy, </institution>
+   <institution>McGill University, </institution>
+  </institution-wrap>740 Ave Docteur Penfield, Suite 5200, Montreal, QC H3A0G1 Canada 
+ </aff>
+</contrib-group>

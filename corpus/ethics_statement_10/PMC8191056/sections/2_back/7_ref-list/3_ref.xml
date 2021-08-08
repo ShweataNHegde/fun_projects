@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vaske</surname>
+    <given-names>OM</given-names>
+   </name>
+   <name>
+    <surname>Haussler</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Data sharing for pediatric cancers</article-title>
+  <source>Science</source>
+  <year>2019</year>
+  <volume>363</volume>
+  <issue>6432</issue>
+  <fpage>1125</fpage>
+  <lpage>5</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.aax2739</pub-id>
+  <pub-id pub-id-type="pmid">30872493</pub-id>
+ </element-citation>
+</ref>

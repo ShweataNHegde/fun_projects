@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="support-group" xmlns="http://www.w3.org/1999/xhtml">
+ <funding-group xmlns="">
+  <award-group>
+   <funding-source>
+    <named-content content-type="funder-name">JSPS KAKENHI</named-content>
+   </funding-source>
+   <award-id>JP18K18294</award-id>
+  </award-group>
+  <funding-statement>This work was supported by Japan Society for the Promotion of Science, Grants-in Aid for Scientific Research (JSPS KAKENHI) [grant number JP18K18294].</funding-statement>
+ </funding-group>
+</div>

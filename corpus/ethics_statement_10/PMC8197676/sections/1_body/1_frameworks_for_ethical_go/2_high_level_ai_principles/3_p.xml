@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">ALTAI provides a checklist of action points for each section. For example, the Accuracy section consists of 5 checkpoints, two of which are listed below:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par35">Could a low level of accuracy of the AI system result in critical, adversarial or damaging consequences?</p>
+  </list-item>
+  <list-item>
+   <p id="Par36">Did you put in place measures to ensure that the data (including training data) used to develop the AI system is up-to-date, of high quality, complete and representative of the environment the system will be deployed in?</p>
+  </list-item>
+ </list>
+</p>

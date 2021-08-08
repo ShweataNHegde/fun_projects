@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Voting results on amendments to 4 position statements after Round 2</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">#</th>
+    <th align="left">Amended statement</th>
+    <th align="left">Accept (n = 12)</th>
+    <th align="left">Reject (n = 12)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">7</td>
+    <td align="left">Professionals involved in consent processes related to data sharing and data-intensive research have the responsibility to balance potential benefits and risks. 
+     <italic>A trained designate should be available to discuss these with parents at the time of consent</italic>
+    </td>
+    <td align="left">9 (75%)</td>
+    <td align="left">3 (25%)</td>
+   </tr>
+   <tr>
+    <td align="left">10</td>
+    <td align="left">Anonymized pediatric data should be made available via 
+     <italic>publicly accessible</italic> databases
+    </td>
+    <td align="left">6 (50%)</td>
+    <td align="left">6 (50%)</td>
+   </tr>
+   <tr>
+    <td align="left">11</td>
+    <td align="left">Identifiable pediatric genomic and associated data should be coded and made available through a controlled or registered access process</td>
+    <td align="left">6 (50%)</td>
+    <td align="left">6 (50%)</td>
+   </tr>
+   <tr>
+    <td align="left">12</td>
+    <td align="left">Providing children and their families the opportunity to share their genomic and associated data is an obligation of 
+     <italic>researchers</italic>
+    </td>
+    <td align="left">5 (42%)</td>
+    <td align="left">7 (58%)</td>
+   </tr>
+   <tr>
+    <td align="left">13</td>
+    <td align="left">
+     <italic>Incidental (secondary) findings of clinically actionable, validated genomic results should be made available</italic>
+    </td>
+    <td align="left">8 (67%)</td>
+    <td align="left">4 (33%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Amendments are indicated in italics</p>
+ </table-wrap-foot>
+</table-wrap>

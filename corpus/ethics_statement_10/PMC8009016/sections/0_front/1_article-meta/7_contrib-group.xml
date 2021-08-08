@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6337-7353</contrib-id>
+  <name>
+   <surname>Suga</surname>
+   <given-names>Tomoko</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1"/>
+  <xref ref-type="corresp" rid="cor1"/>
+ </contrib>
+ <aff id="AF1">Associate Professor, 
+  <institution>Rakuno Gakuen University</institution>, 
+  <city>Hokkaido</city>, 
+  <country>Japan</country>
+ </aff>
+</contrib-group>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>DAC</term>
+   <def>
+    <p id="Par5">Data Access Committee</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ELSI</term>
+   <def>
+    <p id="Par6">Ethical, Legal, Social Issues</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>KIDS</term>
+   <def>
+    <p id="Par7">Key Implications of Data Sharing</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IRB</term>
+   <def>
+    <p id="Par8">Institutional Review Board</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>REC</term>
+   <def>
+    <p id="Par9">Research Ethics Committee</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

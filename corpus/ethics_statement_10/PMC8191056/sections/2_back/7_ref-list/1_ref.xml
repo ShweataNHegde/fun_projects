@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schofield</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Stark</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Shrestha</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Martyn</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gaff</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>SM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Does genomic sequencing early in the diagnostic trajectory make a difference? A follow-up study of clinical outcomes and cost-effectiveness</article-title>
+  <source>Genet Med</source>
+  <year>2018</year>
+  <volume>21</volume>
+  <issue>1</issue>
+  <fpage>173</fpage>
+  <lpage>80</lpage>
+  <pub-id pub-id-type="pmid">29765138</pub-id>
+ </element-citation>
+</ref>

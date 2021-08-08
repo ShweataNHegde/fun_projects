@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">Despite a general belief that AI systems are more objective and accurate than humans, many algorithms are often not as accurate as claimed, or any more accurate than non-AI systems [
+ <xref ref-type="bibr" rid="CR10">10</xref>]. They can also be significantly biased leading to discriminatory outcomes, as the cases mentioned above illustrate. Indeed, the language used to describe and sell AI often perpetuates a misleading view of AI quality, a significant concern for systems deemed as ‘high-risk’. High-risk AI applications are those that can potentially result in material harm to an individual or the environment if not correctly deployed e.g. diagnostic AI [
+ <xref ref-type="bibr" rid="CR11">11</xref>], sentencing [
+ <xref ref-type="bibr" rid="CR12">12</xref>], recruitment [
+ <xref ref-type="bibr" rid="CR13">13</xref>], loan approval [
+ <xref ref-type="bibr" rid="CR14">14</xref>] or chatbots designed to address mental health including addressing suicide [
+ <xref ref-type="bibr" rid="CR15">15</xref>]. These high-risk AI applications are particularly vulnerable to harms caused by untrustworthy AI. The risks to human rights and indeed life, in the case of medical use of AI [
+ <xref ref-type="bibr" rid="CR16">16</xref>], increases the urgency to find meaningful mechanisms to change the way we invest in, develop and use AI solutions. If we do not, it is likely that we will continue to see harm occurring and see further litigation.
+</p>

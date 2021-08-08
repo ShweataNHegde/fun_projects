@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn id="Fn1">
+  <label>1</label>
+  <p id="Par3">The definition for Artificial Intelligence (AI) is open to debate, with the definition shifting over time as new advancements occur. For the purpose of this paper we follow the EU Commission HLEG in AI definition “Artificial intelligence (AI) refers to systems that display intelligent behaviour by analysing their environment and taking actions – with some degree of autonomy – to achieve specific goals. AI-based systems can be purely software-based, acting in the virtual world (e.g. voice assistants, image analysis software, search engines, speech and face recognition systems) or AI can be embedded in hardware devices (e.g. advanced robots, autonomous cars, drones or Internet of Things applications).” [
+   <xref ref-type="bibr" rid="CR53">53</xref>]. We include Machine Learning (ML) in this definition. We define ML as the use of computer algorithms to automatically analyse and learn from large datasets to achieve specific outcomes such as predictions and decisions.
+  </p>
+ </fn>
+ <fn id="Fn2">
+  <label>2</label>
+  <p id="Par9">The Ada Lovelace Institute have recommended that the government engage experts to form the Group of Advisors on Technology in Emergencies (GATE), an advisory body that would act in a similar way to SAGE [
+   <xref ref-type="bibr" rid="CR54">54</xref>].
+  </p>
+ </fn>
+ <fn id="Fn3">
+  <label>3</label>
+  <p id="Par16">Department for Digital, Culture, Media and Sport.</p>
+ </fn>
+ <fn id="Fn4">
+  <label>4</label>
+  <p id="Par17">Department for Business, Energy and Industrial Strategy.</p>
+ </fn>
+ <fn id="Fn5">
+  <label>5</label>
+  <p id="Par33">A point to note with this framework is that it requires a Human Rights Impact Assessment at the outset. This is significant as many of the legal actions being levied against some AI systems are doing so under human rights, privacy or equalities legislation.</p>
+ </fn>
+ <fn id="Fn6">
+  <label>6</label>
+  <p id="Par65">Seven Principles of Public Life: honesty, integrity, openness, leadership, selflessness and accountability.</p>
+ </fn>
+ <fn id="Fn7">
+  <label>7</label>
+  <p id="Par70">The AI Community refers to all those involved in conceiving, funding, procuring, developing, deploying and using the system.</p>
+ </fn>
+ <fn id="Fn8">
+  <label>8</label>
+  <p id="Par91">Not all sections of the checklist are relevant for all projects, with some sections addressing embryo and animal research for example.</p>
+ </fn>
+ <fn>
+  <p>
+   <bold>Publisher’s Note</bold>
+  </p>
+  <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+ </fn>
+</fn-group>
