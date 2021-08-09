@@ -1,16 +1,25 @@
 # understanding python dictionary
-name_list = ['shweata', 'shamanta', 'savita', 'nagapati']
-import pandas as pd
-def main_dict_creation_to_df(list_of_names):
-    main_dictionary = {}
-    name_dict = name_dict_creation(list_of_names)
-    main_dictionary['family_name'] = name_dict
-    df = pd.DataFrame(main_dictionary).T
-    print(df)
+from pprint import pprint
+def does_sent_term_hit(terms, sentences):
+    """gives you the list of terms hit and the sentences
+    
+    Args:
+        terms (list): list of terms
+        sentences (list): sentences list to match against terms
+    """
+    sentence_dict = {}
+    sentence_dict["sentences"] = sentences
+    sentence_dict['terms'] = []
+    for term in terms:
+        for sentence in sentence_dict["sentences"]:
+            if term.lower() in sentence.lower():
+                sentence_dict["terms"].append(term) 
+    pprint(sentence_dict)
 
-def name_dict_creation(list_of_names):
-    name_dict = {}
-    name_dict['all_names'] = list_of_names
-    return name_dict
 
-main_dict_creation_to_df(name_list)
+terms_list = ['shweata', 'shamanta', 'hockey']
+sentences_list = ['shweata is learning to code',
+                    'shweata likes badminton',
+                    'shamanta loves chocolate']
+
+does_sent_term_hit(terms_list, sentences_list)
